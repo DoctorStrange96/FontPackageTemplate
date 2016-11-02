@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.kamin4ri.fontpackagetemplate"
-        minSdkVersion 23
+        minSdkVersion 21
         targetSdkVersion 23
         versionCode 1000
         versionName "1.0.0"
